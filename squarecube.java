@@ -6,7 +6,7 @@ public class squarecube {
 		
 		Scanner Scan =new Scanner(System.in);
 		
-	System.out.println("Enter the number to convert it into square cube and forth power");	
+		System.out.println("Enter the number to convert it into square cube and forth power");	
 		
 		int number = Scan.nextInt();
 		
