@@ -19,7 +19,5 @@ public class Tempratureconversion {
 		System.out.println("Temprature in Kelvin:"+" "+ kelvin);
 		
 	}
-	
-	
 
 }
